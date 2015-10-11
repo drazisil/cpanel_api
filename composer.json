@@ -1,0 +1,7 @@
+{
+    "name": "drazisil/cpanel_api",
+    "description": "a small php class that simplifies api calls to cpanel",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
